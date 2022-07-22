@@ -1,0 +1,23 @@
+# created by virtualenv automatically
+
+*.csv
+*.md
+*.txt
+*.png
+*.in
+*.cfg
+*.in
+*.sav
+*.toml
+makefile
+include
+*.py
+share
+src
+Lib
+Scripts
+__pycache__
+data
+etc
+excel_refs
+
